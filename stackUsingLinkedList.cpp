@@ -99,4 +99,8 @@ int main() {
                 if (!stact.isEmpty()) {
                     stact.peek();
                 }
-            
+                else {
+                    cout << "Stact is Empty. No top value" << endl;
+                }
+                break;
+           
