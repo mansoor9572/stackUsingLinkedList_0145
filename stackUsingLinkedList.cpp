@@ -91,4 +91,9 @@ int main() {
                 if (!stact.isEmpty()) {
                     stact.pop();
                 }
-               
+                else {
+                    cout << "Stact is Empty. Cannot pop." << endl;
+                }
+                break;
+           
+}
