@@ -95,5 +95,8 @@ int main() {
                     cout << "Stact is Empty. Cannot pop." << endl;
                 }
                 break;
-           
-}
+            case 3:
+                if (!stact.isEmpty()) {
+                    stact.peek();
+                }
+            
