@@ -65,3 +65,7 @@ class stack
     bool isEmpty() {
         return top = NULL;
     }
+};
+
+int main() {
+ 
